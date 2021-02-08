@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Ja");
         } else {
             System.out.println("Er det fredag?");
-            System.out.println("Nej :(");
+            System.out.println("Nej");
         }
     }
 
